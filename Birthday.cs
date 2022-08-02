@@ -30,7 +30,7 @@ namespace ConsoleApp1
             //    }
             //    Console.WriteLine();
             //}
-            string str2 = @"                Happy
+            string str2 = @"                 Happy
                      Happy
                         Birthday 
                                 Nitish";
